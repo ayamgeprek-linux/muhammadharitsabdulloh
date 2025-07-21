@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Muhammad Harits Abdulloh</h1>
-<h3 align="center">🚀 A Web Developer in Progress • Tech Enthusiast • Coffee Fuelled ☕</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hai%2C+saya+Harits;Seorang+Web+Developer+Pemula;Selalu+belajar+hal+baru+setiap+hari" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyOHk0MTNwajFrbzM5MzBoNXJhZzNib2MzbGpqa2p3MTRyZ2V6aXlyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" alt="banner" />
+  <img src="https://i.imgur.com/4M7IWwP.png" alt="banner" />
 </p>
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Teknologi yang Saya Gunakan
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -16,38 +17,36 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 Statistik GitHub Saya
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayamgeprek-linux&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayamgeprek-linux&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayamgeprek-linux&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayamgeprek-linux&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🕹️ Mini Game Zone
+### 🕹️ Mainkan Game Seru!
 <p align="center">
   <a href="https://ayamgeprek-linux.github.io/pacman/" target="_blank">
-    <img src="https://img.shields.io/badge/Play Pac-Man-yellow?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Mainkan-Pac--Man-yellow?style=for-the-badge&logo=github&logoColor=black" />
   </a>
   <a href="https://ayamgeprek-linux.github.io/snake/" target="_blank">
-    <img src="https://img.shields.io/badge/Play Snake-green?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mainkan-Snake-green?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🌐 Let's Connect!
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)  
-- 📷 Instagram: [@harits](https://instagram.com/harits)  
-- 🌍 Portfolio: [Website](https://ayamgeprek-linux.github.io/portfolio)
+### 📫 Hubungi Saya
+- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
+- 📷 Instagram: [@harits](https://instagram.com/harits)
+- 🌐 Website: [Portfolio](https://ayamgeprek-linux.github.io/portfolio)
 
 ---
 
-> ⚡ *"Learning one line of code at a time. Every bug is a lesson!"*
-
+> 💬 *Setiap baris kode adalah langkah menuju impian!*
+> 
