@@ -1,12 +1,13 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto" alt="header gif"/>
+</div>
+
 <h1 align="center">👋 Halo, aku <span style="color:#A020F0;">Muhammad Harits Abdulloh</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Open+Source+Enthusiast;Ngulik+Code+Tiada+Henti" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyamEybXJ6a3ozeWxqam9mNHhodDhmbWQ3eXptaDI4YXRhazdtMXNvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="100%" height="auto" alt="header gif"/>
-</div>
 ---
 
 ### 🚀 Skill & Tools
@@ -18,12 +19,13 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-  actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
+
+---
 
 ---
 
@@ -56,6 +58,16 @@
 </p>
 
 ---
+
+### 📜 Sertifikat
+
+<ul>
+  <li><a href="https://luxury-tulumba-664314.netlify.app/" target="_blank">🌟 Fullstack Developer Certification - Harits Bootcamp</a></li>
+  <li><a href="https://luxury-tulumba-664314.netlify.app/" target="_blank">💡 Frontend Mastery Certificate - React & JS</a></li>
+  <li><a href="https://luxury-tulumba-664314.netlify.app/" target="_blank">🔥 Backend Pro Laravel Developer - Final Project Certified</a></li>
+  <li><a href="https://luxury-tulumba-664314.netlify.app/" target="_blank">⚡ GitHub Workflow Automation Expert</a></li>
+  <li><a href="https://luxury-tulumba-664314.netlify.app/" target="_blank">🚀 UI/UX Design Starter Certification</a></li>
+</ul>
 
 <p align="center">
   <b>Terima kasih sudah mampir ke profilku!</b> 🌟
