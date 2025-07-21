@@ -1,62 +1,65 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hai%2C+saya+Harits;Web+Developer+Pemula+Berjiwa+Neon;Selalu+Belajar+Setiap+Hari" alt="Typing SVG" />
-</h1>
+<h1 align="center">👋 Halo, aku <span style="color:#A020F0;">Muhammad Harits Abdulloh</span></h1>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyamEybXJ6a3ozeWxqam9mNHhodDhmbWQ3eXptaDI4YXRhazdtMXNvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Open+Source+Enthusiast;Ngulik+Code+Tiada+Henti" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ Teknologi yang Saya Gunakan
+### 🚀 Skill & Tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 Statistik GitHub Saya
+### 🧠 Sedang Dipelajari
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayamgeprek-linux&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayamgeprek-linux&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ---
 
-### 🐍 Aktivitas Kontribusi Saya
+### 🐍 Snake Contribution
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayamgeprek-linux/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/ayamgeprek-linux/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
 
-### 🕹️ Mainkan Game Seru!
+### 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://ayamgeprek-linux.github.io/pacman/" target="_blank">
-    <img src="https://img.shields.io/badge/Mainkan-Pac--Man-yellow?style=for-the-badge&logo=github&logoColor=black" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayamgeprek-linux&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayamgeprek-linux&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+### 🎮 Mainan Interaktif
+
+<p align="center">
+  <a href="https://harits-games.vercel.app/pacman" target="_blank">
+    <img src="https://img.shields.io/badge/Main%20Pacman-000000?style=for-the-badge&logo=google-chrome&logoColor=yellow" />
   </a>
-  <a href="https://ayamgeprek-linux.github.io/snake/" target="_blank">
-    <img src="https://img.shields.io/badge/Mainkan-Snake-green?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://harits-games.vercel.app/snake" target="_blank">
+    <img src="https://img.shields.io/badge/Coba%20Game%20Snake-111111?style=for-the-badge&logo=python&logoColor=green" />
   </a>
 </p>
 
 ---
 
-### 📫 Hubungi Saya
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
-- 📷 Instagram: [@harits](https://instagram.com/harits)
-- 🌐 Website: [Portfolio](https://ayamgeprek-linux.github.io/portfolio)
-
----
-
-> 💬 *Setiap baris kode adalah langkah menuju masa depan cerah!*
-> 
+<p align="center">
+  <b>Terima kasih sudah mampir ke profilku!</b> 🌟
+</p>
