@@ -21,8 +21,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
 ---
@@ -62,11 +63,11 @@
 ### 📜 Sertifikat
 
 <ul>
-  <li><a href="https://luxury-tulumba-664314.netlify.app/" target="_blank">🌟 Fullstack Developer Certification - Harits Bootcamp</a></li>
-  <li><a href="https://luxury-tulumba-664314.netlify.app/" target="_blank">💡 Frontend Mastery Certificate - React & JS</a></li>
-  <li><a href="https://luxury-tulumba-664314.netlify.app/" target="_blank">🔥 Backend Pro Laravel Developer - Final Project Certified</a></li>
-  <li><a href="https://luxury-tulumba-664314.netlify.app/" target="_blank">⚡ GitHub Workflow Automation Expert</a></li>
-  <li><a href="https://luxury-tulumba-664314.netlify.app/" target="_blank">🚀 UI/UX Design Starter Certification</a></li>
+  <li>📄 Fullstack Developer Certificate</li>
+  <li>📄 Backend Laravel Developer</li>
+  <li>📄 Frontend Web Development</li>
+  <li>📄 Git & GitHub Version Control</li>
+  <li>📄 Responsive UI/UX Design</li>
 </ul>
 
 <p align="center">
