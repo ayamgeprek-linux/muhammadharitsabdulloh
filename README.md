@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Web Developer in Progress • Tech Enthusiast • Coffee Fuelled ☕</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/zvWTUVu.png" alt="banner" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZW1ha2NmYTFreGxxOHY3dXB2MGdvZzJjN3R4b3psM3R5dzNjOGZtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" alt="banner" />
 </p>
 
 ---
