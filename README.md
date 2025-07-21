@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Web Developer in Progress • Tech Enthusiast • Coffee Fuelled ☕</h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZW1ha2NmYTFreGxxOHY3dXB2MGdvZzJjN3R4b3psM3R5dzNjOGZtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" alt="banner" />
+  <img src="<div class="tenor-gif-embed" data-postid="12008883251269662993" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/panosso-gif-12008883251269662993">Panosso GIF</a>from <a href="https://tenor.com/search/panosso-gifs">Panosso GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" alt="banner" />
 </p>
 
 ---
