@@ -9,9 +9,9 @@
 </div>
 ---
 
-### 🚀 Skill & Tools
+###                                                     🚀 Skill & Tools
 
-                                     ### 💾 Database
+### 💾 Database
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
