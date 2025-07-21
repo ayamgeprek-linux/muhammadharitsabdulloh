@@ -1,13 +1,12 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto" alt="header gif"/>
-</div>
-
 <h1 align="center">👋 Halo, aku <span style="color:#A020F0;">Muhammad Harits Abdulloh</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Open+Source+Enthusiast;Ngulik+Code+Tiada+Henti" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyamEybXJ6a3ozeWxqam9mNHhodDhmbWQ3eXptaDI4YXRhazdtMXNvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="100%" height="auto" alt="header gif"/>
+</div>
 ---
 
 ### 🚀 Skill & Tools
@@ -68,6 +67,12 @@
   <li>📄 Frontend Web Development</li>
   <li>📄 Git & GitHub Version Control</li>
   <li>📄 Responsive UI/UX Design</li>
+  <li>📄 Foundational c# with microsoft</li>
+  <li>📄 Foundamental and digital marketing google</li>
+  <li>📄 Skill up introduction to cyber security</li>
+  <li>📄 Nse 1 network security associate</li>
+  <li>📄 Alwaysngoding senior web developer</li>
+  <li>📄 Harvard x cs50p</li>
 </ul>
 
 <p align="center">
