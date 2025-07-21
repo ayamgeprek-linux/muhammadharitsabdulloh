@@ -34,7 +34,8 @@
 
 ### 🐍 Aktivitas Kontribusi Saya
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayamgeprek-linux/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/ayamgeprek-linux/snk/output/github-contribution-grid-snake.svg
+" alt="snake gif" />
 </p>
 
 ---
