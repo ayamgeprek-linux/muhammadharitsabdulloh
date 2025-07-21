@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Halo%2C+saya+Muhammad+Harits+Abdulloh.;Web+Developer+%26+Mobile+Developer.;Suka+ngoding+%2B+ngopi+malam+%F0%9F%8D%95+%7C+Lofi+Beat+%F0%9F%8E%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Halo%2C+saya+Muhammad+Harits+Abdulloh.;Web+Developer+%26+Mobile+Developer.;Ngoding+%7C+Ngopi+%7C+Gaming+retro+%F0%9F%8E%AE" alt="Typing SVG" />
 </h1>
 
 ---
@@ -12,32 +12,32 @@
 
 ### 🧠 Tentang Saya
 
-> 👋 Saya **Muhammad Harits Abdulloh**, Web & Mobile Developer dari Indonesia 🇮🇩  
+> 👋 Saya **Muhammad Harits Abdulloh**, Web & Mobile Dev dari Indonesia 🇮🇩  
 > 🔥 Fokus belajar dan membangun aplikasi keren dengan UI modern  
-> 🎮 Suka game retro dan desain yang animatif  
-> ☕ Motto: Ngoding sambil kopi & musik, itu baru vibes-nya 🎧
+> 🎮 Suka game retro dan animasi profil  
+> ☕ Motto: *Ngoding sambil kopi + lofi beat = vibe terbaik*
 
 ---
 
-### 🛠️ Skill & Tools yang Saya Kuasai
+### 🛠️ Skill & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="html" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="css" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="php" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="cpp" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
 </p>
 
 ---
 
-### 📊 Statistik GitHub Saya
+### 📊 Statistik GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haritsdev&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="49%" />
@@ -46,15 +46,17 @@
 
 ---
 
-### 🎮 Game Favorit (Animasi Saja)
+### 🕹️ Contribution Graph Game Mode: PAC-MAN 👻
+
+> 🎯 Mau lihat animasi Pac-Man jalan di profilku? Klik di bawah ini:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ARSp9T7wwxNcs/giphy.gif" width="180" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/11p2ZV2XyVeE2Q/giphy.gif" width="180" />
+  <a href="https://pacman.js.org/#ayamgeprek-linux" target="_blank">
+    <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="300" alt="Pacman Contribution Graph" />
+  </a>
 </p>
 
-<p align="center"><b>Pac-Man & Snake: Bukan cuma game, tapi inspirasi desain UI! 😎</b></p>
+<p align="center"><b>🔗 https://pacman.js.org/#haritsdev</b></p>
 
 ---
 
@@ -76,8 +78,8 @@
 
 ### 💡 Fun Fact
 
-> "_Koding malam bikin tenang. Hasil bug? Bikin deg-degan..._ 😅  
-> _Tapi begitu berhasil... puasnya nggak bisa dijelasin!_ 🚀"
+> "_Kalau bisa bikin game di contribution graph, kenapa cuma bikin todo app?_" 😏  
+> "_Commit tiap hari, maze Pac-Man makin seru!_"
 
 ---
 
